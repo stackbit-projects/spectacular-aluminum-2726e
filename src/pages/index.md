@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: JENNY LASTOFA
-    subtitle: 'We Deliver quality materials from our stylish workshop to '
+    subtitle: We Deliver quality materials from our stylish workshop to you where
     actions:
       - label: Learn More
         url: /features
