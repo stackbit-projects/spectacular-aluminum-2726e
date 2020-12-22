@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: JENNY LASTOFA
-    subtitle: ''
+    subtitle: 'We Deliver '
     actions:
       - label: Learn More
         url: /features
