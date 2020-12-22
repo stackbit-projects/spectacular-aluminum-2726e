@@ -5,7 +5,7 @@ sections:
     title: JENNY LASTOFA
     subtitle: >-
       We Deliver quality materials from our stylish workshop to you wherever you
-      are
+      are.
     actions:
       - label: Learn More
         url: /features
